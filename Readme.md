@@ -20,7 +20,7 @@ This C++ program implements a Binary Search Tree (BST) with standard operations 
 - **Graphviz**: For graph visualization (`dot` tool)
   ```bash
   sudo apt-get install graphviz  # Linux (Debian/Ubuntu)
-  
+## How to run
 - **Compile the code**:
    ```bash
    g++ -std=c++17 bst.cpp -o bst
